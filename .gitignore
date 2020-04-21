@@ -1,0 +1,4 @@
+TEST.py
+.mypy_cache/**
+.ipynb_checkpoints
+**/__pycache__
